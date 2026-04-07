@@ -1,0 +1,11 @@
+framework module PivoPlusSDK {
+  umbrella header "PivoPlusSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module PivoPlusSDK.Swift {
+  header "PivoPlusSDK-Swift.h"
+  requires objc
+}

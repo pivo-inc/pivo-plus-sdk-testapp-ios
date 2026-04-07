@@ -1,0 +1,22 @@
+PODS:
+  - PivoPlusSDK (1.0.0)
+
+DEPENDENCIES:
+  - PivoPlusSDK (from `https://github.com/pivo-inc/pivo-plus-sdk-ios.git`, tag `1.0.0`)
+
+EXTERNAL SOURCES:
+  PivoPlusSDK:
+    :git: https://github.com/pivo-inc/pivo-plus-sdk-ios.git
+    :tag: 1.0.0
+
+CHECKOUT OPTIONS:
+  PivoPlusSDK:
+    :git: https://github.com/pivo-inc/pivo-plus-sdk-ios.git
+    :tag: 1.0.0
+
+SPEC CHECKSUMS:
+  PivoPlusSDK: f70d83d9271df5c5997edf54ea93b4e7db862a98
+
+PODFILE CHECKSUM: 596fbb7821fe42d3c6fb3e5c93d7e823ba2de27d
+
+COCOAPODS: 1.16.2
